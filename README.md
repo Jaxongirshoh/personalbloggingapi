@@ -85,10 +85,6 @@ src/
 │   │   └── dev/
 │   │       └── wisespirit/
 │   │           └── personalbloggingapi/
-│   │               ├── controllers/
-│   │               ├── models/
-│   │               ├── repositories/
-│   │               └── services/
 │   └── resources/
 │       └── application.properties
 └── test/
